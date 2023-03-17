@@ -1,6 +1,6 @@
 declare const MAX_COLOR_INTENSITY = 255;
 declare const DEFAULT_COLOR_OFF: number[];
-declare const MAX_CHANNELS = 100;
+declare const MAX_CHANNELS = 16;
 declare const DEFAULT_FONT_FAMILY = "-apple-system, 'Helvetica Neue', Arial, sans-serif";
 /**
  * @deprecated We plan to remove `DTYPE_VALUES` as a part of Viv's public API as it

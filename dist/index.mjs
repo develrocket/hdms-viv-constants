@@ -2,7 +2,7 @@ import GL from '@luma.gl/constants';
 
 const MAX_COLOR_INTENSITY = 255;
 const DEFAULT_COLOR_OFF = [0, 0, 0];
-const MAX_CHANNELS = 100;
+const MAX_CHANNELS = 16;
 const DEFAULT_FONT_FAMILY = "-apple-system, 'Helvetica Neue', Arial, sans-serif";
 const DTYPE_VALUES = {
   Uint8: {
